@@ -28,7 +28,7 @@
     "vue": "^2.4.4",
     "vue-simple-spinner": "^1.2.8",
     "webdav": "https://github.com/subdavis/webdav-client#fetchfix",
-    "xmldom": "^0.1.27"
+    "xmldom": "^0.5.0"
   },
   "browserslist": [
     "> 1%",
